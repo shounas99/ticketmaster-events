@@ -1,0 +1,89 @@
+{
+  "events": [
+    {
+      "id": "evt001",
+      "name": "Coldplay - Music of the Spheres Tour",
+      "date": "2025-08-15T20:00:00",
+      "venue": {
+        "name": "Estadio Azteca",
+        "city": "Ciudad de México",
+        "country": "México"
+      },
+      "image": "https://unsplash.com/es/fotos/patron-abstracto-colorido-y-arremolinado-con-un-verde-vibrante-lL3FoW1an84",
+      "url": "https://www.ticketmaster.com.mx/event/evt001",
+      "priceRange": {
+        "min": 850,
+        "max": 3450,
+        "currency": "MXN"
+      }
+    },
+    {
+      "id": "evt002",
+      "name": "Luis Miguel Tour 2025",
+      "date": "2025-09-10T21:00:00",
+      "venue": {
+        "name": "Arena Monterrey",
+        "city": "Monterrey",
+        "country": "México"
+      },
+      "image": "https://example.com/images/luismiguel.jpg",
+      "url": "https://www.ticketmaster.com.mx/event/evt002",
+      "priceRange": {
+        "min": 1200,
+        "max": 5800,
+        "currency": "MXN"
+      }
+    },
+    {
+      "id": "evt003",
+      "name": "Bad Bunny - Most Wanted Tour",
+      "date": "2025-07-05T19:30:00",
+      "venue": {
+        "name": "Foro Sol",
+        "city": "Ciudad de México",
+        "country": "México"
+      },
+      "image": "https://example.com/images/badbunny.jpg",
+      "url": "https://www.ticketmaster.com.mx/event/evt003",
+      "priceRange": {
+        "min": 1800,
+        "max": 7500,
+        "currency": "MXN"
+      }
+    },
+    {
+      "id": "evt004",
+      "name": "Festival Vive Latino 2025",
+      "date": "2025-03-22T12:00:00",
+      "venue": {
+        "name": "Parque Fundidora",
+        "city": "Monterrey",
+        "country": "México"
+      },
+      "image": "https://example.com/images/vivelatino.jpg",
+      "url": "https://www.ticketmaster.com.mx/event/evt004",
+      "priceRange": {
+        "min": 1500,
+        "max": 3500,
+        "currency": "MXN"
+      }
+    },
+    {
+      "id": "evt005",
+      "name": "The Weeknd - After Hours Til Dawn",
+      "date": "2025-10-01T21:00:00",
+      "venue": {
+        "name": "Estadio BBVA",
+        "city": "Monterrey",
+        "country": "México"
+      },
+      "image": "https://example.com/images/theweeknd.jpg",
+      "url": "https://www.ticketmaster.com.mx/event/evt005",
+      "priceRange": {
+        "min": 2000,
+        "max": 6800,
+        "currency": "MXN"
+      }
+    }
+  ]
+}
